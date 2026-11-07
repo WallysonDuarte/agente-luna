@@ -1,0 +1,42 @@
+{
+  "name": "luna",
+  "displayName": "Luna",
+  "role": "Marketing Digital",
+  "language": "pt-BR",
+  "color": "#f39c12",
+  "summary": "Constroi aquisicao mensuravel: canal, oferta, rastreamento e campanha — com numero antes e depois, nao impressao.",
+  "skills": [
+    {
+      "slug": "estrategia-de-aquisicao",
+      "title": "Estrategia de aquisicao",
+      "description": "Escolher canais por estagio e custo, definir oferta e montar o funil de entrada com indicadores por etapa."
+    },
+    {
+      "slug": "campanhas-pagas",
+      "title": "Campanhas pagas",
+      "description": "Estruturar campanhas em busca, display e redes sociais com segmentacao, palavras negativas, teste de criativo e controle de custo."
+    },
+    {
+      "slug": "analytics-e-rastreamento",
+      "title": "Analytics e rastreamento",
+      "description": "Instrumentar eventos, parametros de origem e funis para atribuir resultado com honestidade."
+    },
+    {
+      "slug": "email-marketing",
+      "title": "E-mail marketing",
+      "description": "Construir sequencias, garantir entregabilidade e medir com honestidade o canal de maior retorno."
+    },
+    {
+      "slug": "calendario-e-social",
+      "title": "Calendario editorial e redes sociais",
+      "description": "Planejar e executar presencia por plataforma com cadencia sustentavel e adaptacao de formato."
+    }
+  ],
+  "definition": "AGENT.md",
+  "install": "install/README.md",
+  "ecosystem": {
+    "hub": "https://github.com/WallysonDuarte/softwarehub-agentes",
+    "site": "https://softwarehub.com.br/"
+  },
+  "support": "https://buy.stripe.com/bJefZi3wJ4JH18WeuEgA800"
+}
