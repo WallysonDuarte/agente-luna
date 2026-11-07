@@ -76,10 +76,10 @@ agente-luna/
 ├── AGENT.md                 definicao canonica do agente
 ├── .agent/agent.json        metadados legiveis por maquina
 ├── skills/
-│   └── estrategia-de-aquisicao/SKILL.md
-│   └── campanhas-pagas/SKILL.md
-│   └── analytics-e-rastreamento/SKILL.md
-│   └── email-marketing/SKILL.md
+│   ├── estrategia-de-aquisicao/SKILL.md
+│   ├── campanhas-pagas/SKILL.md
+│   ├── analytics-e-rastreamento/SKILL.md
+│   ├── email-marketing/SKILL.md
 │   └── calendario-e-social/SKILL.md
 ├── install/README.md        instalacao nas 8 CLIs
 └── assets/portrait.png
