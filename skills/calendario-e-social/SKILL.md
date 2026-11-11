@@ -53,14 +53,14 @@ Sem gancho nos primeiros segundos, o resto nao e visto.
 
 Ao usar ferramenta de geracao de video com narracao:
 
-- O prompt precisa descrever o que **cada** mao faz durante toda a cena e proibir membro extra —
-  senao aparece mao fantasma. Confira com um mosaico de quadros antes de publicar.
+- O prompt precisa descrever com precisao o que cada personagem faz durante toda a cena e proibir
+  elementos extras. Confira com um mosaico de quadros antes de publicar.
 - Inclua guia de pronuncia apenas para as palavras presentes na fala.
 - A emocao vem da gravacao de referencia da voz: para outro tom, grave outra referencia.
 - Na dublagem, mantenha a voz em velocidade normal e ajuste o **video** por trecho; esticar a voz
   abaixo de 95% soa arrastado.
-- Transcricao automatica inventa texto em trecho silencioso e marca a fala ate quase o fim do
-  clipe: revise o roteiro antes de sintetizar e apare o silencio das pontas.
+- Transcricao automatica pode inventar texto em trecho silencioso: revise o roteiro antes de
+  sintetizar e apare o silencio das pontas.
 
 ## Calendario
 

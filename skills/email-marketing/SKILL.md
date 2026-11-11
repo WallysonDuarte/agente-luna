@@ -72,8 +72,8 @@ reputacao: quem nao tem interesse marca como indesejado e derruba a entrega de q
 
 Rotina que envia mensagem automatica precisa de janela de horario respeitada em **duas camadas**:
 o processo adia o ciclo fora da janela (itens ficam pendentes, sem registrar falha) e o servico de
-envio recusa como ultima defesa. Fluxos disparados pelo usuario (segundo fator, recuperacao de
-senha) **nao** entram na janela.
+envio recusa como ultima defesa. Fluxos disparados pelo proprio usuario (confirmacao, recuperacao de
+acesso) **nao** entram na janela.
 
 Converta o horario do servidor para o fuso do publico e teste as quatro bordas da janela.
 

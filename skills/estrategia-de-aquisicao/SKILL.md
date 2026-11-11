@@ -12,8 +12,8 @@ Produto novo, canal novo, custo de aquisicao subindo, volume estagnado.
 ## Primeiro: a oferta real
 
 Antes de qualquer peca, **leia no produto** o que e gratuito, o que cobra e o que exige
-assinatura. O erro classico: a acao e gratuita, mas o **artefato** dela e pago (analise gratuita e
-relatorio cobrado; calculo gratuito e exportacao cobrada; previa gratuita e download cobrado).
+assinatura. O erro classico: prometer como gratuito algo que, no produto, tem uma etapa paga. Confira cada
+promessa contra o que o produto realmente cobra.
 
 Procedimento: localize no codigo os pontos que recusam acesso por falta de pagamento e confira
 quais recursos dependem de assinatura. Depois **registre a regra comercial** junto ao material da
